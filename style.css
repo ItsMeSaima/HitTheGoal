@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
+.body_background 
+{
+    background-position: center;
+   background:url(Grass.jpg);
+   background-size:970px ;
+}
+#myCanvas
+{
+    border-width:13px;
+    border-style:ridge;
+	background-color:forestgreen;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: black;
+	background-color: whitesmoke;
+	font-family: combo;
+	font-weight: bold;
+font-size: 40px;
+width: 500px;
+border-radius: 7px;
+}
+
